@@ -1,5 +1,5 @@
 # WebScrape API
-WebScrape API automatically extracts data from any websites.
+WebScrape API automatically extracts data from any website.
 
 
 [Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
@@ -16,27 +16,27 @@ WebScrape API automatically extracts data from any websites.
 * **Pay As You Go Pricing**
 
 ## API UseCases
-WebScrape API can be integrated with any website, mobile app which requires high quality content scraping of the any WebSite or HTML content snippet.
+WebScrape API can be integrated with any website or mobile app which requires high-quality content scraping of any WebSite or HTML content snippet.
 
 Example Use Cases -
 * **E2E Testing** - 
-  Web Scraping API can be used in the a regression testing validation to your CI/CD testing pipeline.
+  Web Scraping API can be used in the regression testing validation of your CI/CD testing pipeline.
 
 * **Machine Learning** - 
-  Web Scraping helps you to gather data for testing / training your Machine Learning models.
+  Web Scraping helps you to gather data for testing/training your Machine Learning models.
 
 * **Data Analysis** - 
   A Web Scraper helps you gather structured data from multiple sources in the Internet with ease.
 
 ## Pricing
-We have simple Pay As You Go Pricing Plans starts at minimum **$9**, with a year validity.
+We have simple Pay As You Go Pricing Plans that start at a minimum of **$9**, with a year validity.
 
-Very affordable pricing, each Validat VAT API request costs **3 request for 1 Cent**  irrespective of the plan.
+Very affordable pricing, each Web Conversion API request costs **3 requests for 1 Cent**  irrespective of the plan.
 
 Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/api-catalogue/web-scrape-api)
 
 ## Documentation
-Extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.theapibridge.com).
+Extensive API documentation, including code examples and extensive descriptions, can be found [here](https://docs.theapibridge.com).
 
 ## Customer Support
 For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
